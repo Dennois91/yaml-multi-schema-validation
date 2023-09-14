@@ -3,4 +3,4 @@ schedule:
   lessons:
     - date: "2022-02-01"
       description: En lektion om java
-  year: 2020
+  year: "2020"
