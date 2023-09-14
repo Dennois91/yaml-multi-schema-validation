@@ -1,3 +1,15 @@
 computer:
   cpu:
     cores: 8
+    manufacturer: Nvidia
+    frequency: 9000
+
+  memory:
+    manufacturer: Gigabyte
+    size: 32
+    type: Ram
+
+  disk:
+    manufacturer: Storage
+    size: 4000
+    type: Hard
