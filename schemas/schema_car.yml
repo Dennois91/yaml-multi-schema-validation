@@ -13,9 +13,8 @@ car:
       min: 4
       max: 4
   attributes:
-   type: array
-   items:
-    type: string
+    - required: true
+    - type: string
   reg:
     required: true
     type: string
