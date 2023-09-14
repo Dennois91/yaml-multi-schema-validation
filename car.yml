@@ -1,5 +1,4 @@
 car:
-  manufacturer: volvo
   model: volvo 740
   year: "1990"
   attributes:
